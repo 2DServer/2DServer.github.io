@@ -8,18 +8,21 @@ hero:
   tagline: "SCP秘密实验室服务器"
   actions:
     - theme: brand
-      text: 示例文档
-      link: /markdown-examples
+      text: 开始阅读
+      link: /src/docs/introduce
     - theme: alt
-      text: API示例
-      link: /api-examples
+      text: 随机事件
+      link: /src/docs/events/all
+    - theme: alt
+      text: Github
+      link: 'https://github.com/2DServer'
 
 features:
-  - title: Feature A
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature B
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature C
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - title: 随机事件
+    details: 多种组合，多种快乐
+  - title: 无规则服
+    details: 保安快乐局
+  - title: 流程服务器
+    details: BGP线路不卡顿
 ---
 

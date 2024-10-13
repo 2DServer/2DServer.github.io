@@ -20,13 +20,14 @@ export default defineConfig({
       {
         text: '随机事件',
         items: [
-          { text: '所有事件列表', link: '/src/docs/introduce' },
+          { text: '所有事件列表', link: '/src/docs/events/all' },
+          { text: '「艺术就是派大星」', link: '/src/docs/events/PinkCandyDay' },
         ]
       }
     ],
 
     editLink: {
-      pattern: "https://github.com/2DServer/2DServer.github.io/blob/main/:path",
+      pattern: "https://github.com/2DServer/2DServer.github.io/blob/main/docs/:path",
       text: "在GitHub上编辑此页面"
     },
 
@@ -49,7 +50,7 @@ export default defineConfig({
 
     footer: {
         message: "基于 <a href='https://github.com/2DServer/2DServer.github.io/blob/main/LICENSE'>GPL 3.0</a> 许可发布",
-        copyright: "Copyright © 2024-2DServer"
+        copyright: "Copyright © 2024 2DServer"
     },
 
     socialLinks: [
