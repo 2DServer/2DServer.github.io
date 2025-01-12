@@ -18,7 +18,7 @@ hero:
       link: 'https://github.com/2DServer'
     - theme: alt
       text: 服务器状态
-      link: 'https://status.scpsl2d.cc/
+      link: 'https://status.scpsl2d.cc/'
     - theme: alt
       text: QQ群
       link: 'https://scpsl2d.cc/serqq.html'
